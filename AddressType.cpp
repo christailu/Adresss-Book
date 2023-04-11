@@ -1,11 +1,5 @@
 
-// ---------------------------------------------------------------------------
-// Name: Christelle Mbemba
-// Course-Section: CS255-02
-// Assignment: Project 8
-// Date due: 04/09/2023
-// Description:  implementation of an address class with overloaded operators for comparison and output.
-// ---------------------------------------------------------------------------
+
 #include <iostream>
 using namespace std;
 
